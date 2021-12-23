@@ -1,12 +1,6 @@
-# JS Bits
+# JavaScript Bits
 
 JavaScript concepts explained with code.
-
-Community contributions welcome :)
-
-**Translations by community:**
-
-- 中文版 (Chinese): [js-bits-cn](https://github.com/ecmadao/js-bits-cn)
 
 ---
 
